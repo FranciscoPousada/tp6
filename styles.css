@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+
+h2 {
+    color: #333;
+}
+
+label {
+    display: block;
+    margin-bottom: 2em;
+}
+
+input[type="number"] {
+    width: 40%;
+    padding: 1em;
+    margin-bottom: 1em;
+    border: 0.5em solid #ccc;
+    border-radius: 2em;
+}
+
+button {
+    padding: 1em 2em;
+    background-color: #007bff;
+    color: #000000;
+    border: none;
+    border-radius: 1em;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#output {
+    margin-top: 2em;
+    
+}
+
